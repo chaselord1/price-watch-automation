@@ -1,0 +1,5 @@
+[2026-09-02 23:39] checking 2 products...
+  A Light in the Attic: 51.77  <-- below target!
+ALERT: A Light in the Attic dropped to 51.77 (target 60.00)
+https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+  Tipping the Velvet: 53.74
